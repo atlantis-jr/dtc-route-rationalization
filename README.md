@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a comprehensive framework for dynamic bus service rationalization designed to combat bus bunching and improve headway regularity in urban transit systems. The implementation is based on the research document "A Framework for Dynamic Bus Service Rationalization: A Phased Machine Learning Approach to Anti-Bunching and Headway Regularity."
+This project implements a comprehensive framework for dynamic bus service rationalization designed to combat bus bunching and improve headway regularity in urban transit systems. The implementation is based on the research document "A Framework for Dynamic Bus Service Rationalization: A Phased Machine Learning Approach to Anti-Bunching and Headway Regularity " which is prepared by us.
 
 ## Key Features
 
